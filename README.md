@@ -1,5 +1,5 @@
-# r8152
-Driver for Realtek RTL815x USB Ethernet Adapter. Meant to be used in distributions only. For upstream bugs, please report them to your distribution maintainer or to Realtek. 
+# Driver for Realtek RTL8152/RTL8153/RTL8156 USB Ethernet Adapter
+Meant to be used in distributions only. For upstream bugs, please report them to your distribution maintainer or to Realtek. 
 
 ## Build and install with DKMS
 
